@@ -48,13 +48,6 @@ Welcome to the React Form with Validation project! This project demonstrates how
 You should now see the form ready to be filled out. 🎉
 
 
-# Project Structure 📂
-- `src/components/`: Contains React components for the form and routes.
-  - `FormComponent.jsx`: The main form component.
-  - `SuccessComponent.jsx`: Component to display after successful form submission.
-- `src/App.jsx`: Main application component with routing logic.
-- `src/App.css`: Basic styling for the form.
-
 ## Form Validation Logic 🔍
 - **Required Fields**: Each field has a validation check to ensure it is not empty.
 - **Email Validation**: Checks if the email entered is in a valid format.
